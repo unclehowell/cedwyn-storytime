@@ -1,0 +1,144 @@
+{
+ "lang": "es",
+ "name": "Español",
+ "dir": "ltr",
+ "ui": {
+  "play": "Reproducir",
+  "pause": "Pausa",
+  "resume": "Continuar",
+  "next": "Siguiente",
+  "prev": "Atrás",
+  "evidence": "Pruebas de esta escena",
+  "close": "Cerrar",
+  "language": "Idioma",
+  "scene": "Escena",
+  "location": "Lugar",
+  "of": "de",
+  "mt": "Traducción automática; aún no revisada por un hablante nativo.",
+  "our_reading": "Nuestra interpretación",
+  "transcript": "Transcripción",
+  "transcript_pending": "Transcripción pendiente",
+  "description": "Descripción",
+  "open_page": "Abrir la página de la prueba",
+  "testimony": "Testimonio, aún no incluido en el catálogo",
+  "context_image": "Imagen de contexto",
+  "start": "Empezar la historia",
+  "voice_note": "La narración usa la voz de tu propio dispositivo; si no oyes nada, lee los subtítulos.",
+  "speed": "Velocidad",
+  "subtitles": "Subtítulos"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Bajo la tierra",
+   "when": "antes de 1824",
+   "short": "Mucho antes de cualquier documento de la finca, Llandough ya estaba habitado: una villa romana, un cementerio cristiano primitivo con más de mil enterramientos junto a la iglesia, y hallazgos que después se perdieron en un incendio en 1983."
+  },
+  "s02": {
+   "title": "El nombre Cedwyn",
+   "when": "de 1392 a 1902",
+   "short": "El nombre Cedwyn recorre la tierra: Cwm-Cedwyn junto al río Ely, Nant-Cedwyn, el bosque de Cwm Cydfin. Nuestra interpretación: el nombre es más antiguo que los documentos de la finca."
+  },
+  "s03": {
+   "title": "Tŷ Mawr en el mapa",
+   "when": "1824",
+   "short": "1824: un levantamiento dibuja la propiedad como el plano 19, Cedfin o granja Tŷ Mawr, con una tabla de sus campos. Es la primera mención encontrada hasta ahora en los levantamientos de la finca."
+  },
+  "s04": {
+   "title": "El mapa del diezmo",
+   "when": "hacia 1841",
+   "short": "Hacia 1841: la lista del diezmo asigna 36 parcelas a John Williams, 33 de ellas anotadas a nombre de Bute. Una lista del diezmo no examinaba la titularidad. Nuestra interpretación: esta anotación de Bute es la que hay que examinar."
+  },
+  "s05": {
+   "title": "Las contribuciones y la cantera",
+   "when": "de 1872 a 1877",
+   "short": "De 1872 a 1877: los registros de contribuciones nombran a John Williams; un acuerdo de Bute de 1877 con una empresa de canteras afecta a la parcela de la casa. Nuestra interpretación: el comienzo del reparto para las caleras."
+  },
+  "s06": {
+   "title": "Una familia de rango",
+   "when": "de 1881 a 1910",
+   "short": "De 1881 a 1910: John Williams, agricultor, en el censo; miembro del gran jurado del tribunal señorial en 1910. Nuestra interpretación: una familia de rango en la parroquia."
+  },
+  "s07": {
+   "title": "Bosques, drenajes y documentos de la finca",
+   "when": "de 1902 a 1931",
+   "short": "De 1902 a 1931: subastas de la finca, escrituras de traspaso y un documento de la finca de 1916 que la familia impugna. Mientras tanto, la familia planta árboles, la costumbre autóctona de hacer valer la propiedad."
+  },
+  "s08": {
+   "title": "Traspasada a sus espaldas",
+   "when": "de 1938 a 1942",
+   "short": "De 1938 a 1942: el interés de Bute pasa a Western Ground Rents; en 1939 se redacta un documento a nombre de John Williams. Nuestra interpretación: la tierra cambió de manos sobre el papel sin la familia."
+  },
+  "s09": {
+   "title": "Empiezan los tribunales",
+   "when": "de 1949 a 1957",
+   "short": "De 1949 a 1957: una nueva concesión no escrita, documentos de titularidad desaparecidos de la casa de labranza y, después, el tribunal del condado. Nuestra interpretación: la ocupación reconvertida en permiso."
+  },
+  "s10": {
+   "title": "Un Crichel Down galés",
+   "when": "1958",
+   "short": "1958: la señora Mary Buckler, de Tŷ Mawr, lo llama un Crichel Down galés: una tierra cultivada por su familia desde 1667, apropiada injustamente."
+  },
+  "s11": {
+   "title": "Órdenes, una escuela y un prado comunal",
+   "when": "de 1959 a 1970",
+   "short": "De 1959 a 1970: ofertas, una orden de 1962, el terreno de la escuela en 1965, BP en 1969 y la parcela C inscrita como prado comunal del pueblo en 1970. Nuestra interpretación: tomada parcela a parcela."
+  },
+  "s12": {
+   "title": "El estudio y la jornada de puertas abiertas",
+   "when": "de 1971 a 1975",
+   "short": "1974: la Comisión Real mide la casa; una jornada de puertas abiertas para salvarla; Mary Williams defiende su propiedad. 1975: la casa pasa de una empresa de BP a otra sobre el papel."
+  },
+  "s13": {
+   "title": "Inscrita",
+   "when": "de 1980 a 1985",
+   "short": "De 1982 a 1983: la tierra, y después la casa de labranza, se inscriben por primera vez como los títulos WA231076 y WA240304. Nuestra interpretación: el paso de la inscripción en el patrón."
+  },
+  "s14": {
+   "title": "Sentencia",
+   "when": "de 1986 a 1987",
+   "short": "De 1986 a 1987: el Tribunal Superior y después el Tribunal de Apelación fallan a favor de BP. El plan local seguía marcando los edificios para conservarlos."
+  },
+  "s15": {
+   "title": "La casa es derribada",
+   "when": "1988",
+   "short": "1988: el desalojo y, el 7 de diciembre, las excavadoras poco después de las 4 de la madrugada. A la hora del desayuno no quedaba nada en pie, mientras aún se estudiaba su protección como edificio catalogado."
+  },
+  "s16": {
+   "title": "Después",
+   "when": "de 1989 a 1996",
+   "short": "De 1989 a 1996: edificio destruido por sus propietarios, anota el registro. Llegan casas y un prado comunal; la excavación de 1994 halla el cementerio cristiano primitivo."
+  },
+  "s17": {
+   "title": "En los libros de derecho",
+   "when": "de 2002 a 2017",
+   "short": "Desde 2002: el caso se convierte en una lección de manual sobre la usucapión mientras la tierra cambia de manos."
+  },
+  "s18": {
+   "title": "Preguntar a los custodios de los registros",
+   "when": "2026",
+   "short": "2026: se pregunta directamente a quienes custodian los registros. Cada respuesta se convierte en una ficha del catálogo; cada laguna, en un registro que falta."
+  }
+ },
+ "patagonia": {
+  "p1": {
+   "title": "El granero",
+   "text": "Lugar uno: el granero. En Tŷ Mawr el granero se alzaba al otro lado del patio, frente a la casa, y era el escenario de la vida de la parroquia. Una fotografía de la People's Collection Wales muestra una fiesta de la capilla en Great House Farm, con el granero detrás de la multitud, un tobogán para los niños y una carpa de refrescos. El testimonio recoge que Peerless Jim Driscoll, el campeón de boxeo de Cardiff, disputó uno de sus primeros combates en este granero, y que bajo él se halló una casa redonda galesa. Ninguna de las dos cosas está aún en el catálogo de pruebas. Lo que sí guarda el catálogo: Cadw fotografió este granero el 29 de julio de 1988, meses antes de que lo derribaran, y el terreno a su alrededor albergó una villa romana y un cementerio cristiano primitivo."
+  },
+  "p2": {
+   "title": "La casa principal",
+   "text": "Lugar dos: la casa principal, Tŷ Mawr, la antigua casa señorial de Llandough. En 1824 un levantamiento la dibuja como Cedfin o granja Tŷ Mawr, plano 19. En 1881 el censo registra aquí a John Williams y su familia, y en 1910 él forma parte del gran jurado del tribunal señorial. En 1958 Mary Doreen Buckler, hablando desde esta casa, llama a la pérdida de las tierras de la familia desde 1667 un Crichel Down galés. En abril de 1974 la Comisión Real mide cada habitación, el plano con el que se construye esta réplica, y la casa celebra una jornada de puertas abiertas para salvarla. En 1982 y 1983 la tierra y la casa se inscriben por primera vez a nombre de otros. En diciembre de 1988 las excavadoras llegan poco después de las cuatro de la madrugada, mientras aún se estudia su protección. Nuestra interpretación: la casa es el centro de toda la cronología, y aquí vuelve a alzarse."
+  },
+  "p3": {
+   "title": "La iglesia",
+   "text": "Lugar tres: la iglesia. St Dochdwy se alzaba a pocos pasos de la casa. La excavación de 1994 al norte de la iglesia registró más de mil enterramientos cristianos primitivos, y Cadw catalogó la iglesia en 1989. La iglesia del siglo diecisiete no se reconstruirá en la Patagonia, así que aparece aquí como un holograma. Aún no se ha encontrado ninguna imagen de aquella iglesia medieval: este holograma está trazado a partir de la fotografía más antigua hallada, la de la iglesia que estuvo aquí antes de 1866."
+  },
+  "p4": {
+   "title": "El patio y los establos",
+   "text": "Lugar cuatro: el patio y los establos, el corazón de trabajo de la granja. Los libros parroquiales de la década de 1870 nombran aquí a John Williams, y en 1891 un periódico informa de que se llevaron tres gansos de su patio. La familia plantó árboles en la tierra, la costumbre autóctona de hacer valer la propiedad, y una fotografía familiar lo registra. A partir de 1916, la parte de la finca redactó documentos que describían la ocupación de la familia en sus propios términos; la familia los impugna todos. Hacia 1950 los documentos de titularidad de la familia desaparecieron del arcón de las mantas de la casa, y los registros del tribunal del condado se abren en 1953. Nuestra interpretación: cada documento reconvirtió una larga ocupación en permiso."
+  },
+  "p5": {
+   "title": "El portón y el prado",
+   "text": "Lugar cinco: el portón de acceso, mirando hacia lo que fue la parcela C. En 1965 tierras de la finca se destinaron a la escuela de Llandough, y en junio de 1970 la parcela C se inscribió como prado comunal VG41. Después de 1988 el lugar se convirtió en un plan de viviendas, con un proyecto de plantación para el prado comunal. En 2026 se preguntó directamente a quienes custodian los registros: el Registro de la Propiedad, Cadw, los archivos. Cada respuesta es una ficha del catálogo; cada laguna es un registro que falta. Nuestra interpretación: el portón es por donde la finca se fue, parcela a parcela, y por donde ahora vuelve el registro."
+  }
+ }
+}

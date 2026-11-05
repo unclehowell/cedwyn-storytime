@@ -1,0 +1,66 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Museum Tour — how Cedwyn was taken parcel by parcel</title>
+<meta name="description" content="A museum-style tour, room by room, of how the Cedwyn estate of the Williams family at Tŷ Mawr — now Leckwith and Llandough — passed out of their hands parcel by parcel as the old manorial farmland was industrialised. Every exhibit carries its catalogue ID.">
+<style>
+:root{--wall:#efe7d8;--wall2:#e5dac6;--ink:#231f1a;--muted:#6b6257;--frame:#7a5a2e;--plaque:#fbf7ef;--accent:#7b2418;--link:#1d4a7a}
+@media (prefers-color-scheme:dark){:root{--wall:#191612;--wall2:#221e18;--ink:#eee6d8;--muted:#b4a996;--frame:#c39a57;--plaque:#26211b;--accent:#e08b74;--link:#9cc3f0}}
+*{box-sizing:border-box}html,body{margin:0;background:var(--wall);color:var(--ink);font:17px/1.6 Georgia,"Times New Roman",serif}
+a{color:var(--link)}a:focus-visible,button:focus-visible{outline:3px solid var(--frame);outline-offset:2px}
+.hall{max-width:900px;margin:0 auto;padding:1.2rem clamp(.8rem,4vw,1.6rem) 3rem}
+.kick{font:600 .76rem/1.3 system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+h1{font-size:clamp(1.6rem,6vw,2.6rem);line-height:1.15;margin:.3rem 0 .5rem}
+.lede{font-size:1.02rem;color:var(--muted)}
+.plaque{background:var(--plaque);border:1px solid var(--frame);border-radius:4px;padding:.9rem 1rem;box-shadow:0 2px 0 var(--wall2);margin:1rem 0}
+.plaque h2{font-size:1.05rem;margin:0 0 .35rem}.plaque ol{margin:.2rem 0 0;padding-left:1.2rem;font-size:.95rem}
+.map{display:flex;gap:.35rem;overflow-x:auto;padding:.4rem 0 .6rem;position:sticky;top:0;background:var(--wall);z-index:2;border-bottom:1px solid var(--wall2)}
+.map a{flex:0 0 auto;font:600 .78rem/1.2 system-ui,sans-serif;text-decoration:none;color:var(--ink);border:1px solid var(--frame);border-radius:999px;padding:.4rem .65rem;background:var(--plaque)}
+.map a.cur{background:var(--accent);color:#fff;border-color:var(--accent)}
+.room{scroll-margin-top:3.6rem;margin:2.2rem 0 0;padding-top:.6rem;opacity:0;transform:translateY(14px);transition:opacity .7s,transform .7s}.room.in{opacity:1;transform:none}
+.room .no{font:700 .78rem/1 system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--frame)}
+.room h2{font-size:clamp(1.3rem,5vw,1.8rem);margin:.25rem 0 .1rem}.room .period{color:var(--muted);font-style:italic;margin:0 0 .6rem}
+.room p.story{font-size:1.02rem;margin:.4rem 0 .9rem}
+.cases{display:grid;gap:.7rem;grid-template-columns:repeat(auto-fill,minmax(min(100%,250px),1fr))}
+.case{background:var(--plaque);border:6px solid var(--frame);border-radius:2px;padding:.65rem .75rem;box-shadow:inset 0 0 0 1px rgba(0,0,0,.08)}
+.case .id{font:700 .76rem/1.3 ui-monospace,Consolas,monospace;color:var(--accent)}.case .t{font-size:.92rem;line-height:1.4;margin:.25rem 0 0}
+.case img{width:100%;height:auto;display:block;margin:.4rem 0 0;border:1px solid var(--wall2)}
+.small{font:.82rem/1.45 system-ui,sans-serif;color:var(--muted)}
+.exit{margin-top:2.4rem}
+@media (prefers-reduced-motion:reduce){.room{opacity:1;transform:none;transition:none}}
+</style></head><body><main class="hall">
+<p class="kick">Cedwyn Estate · The Museum Tour</p>
+<h1>How Cedwyn was taken, parcel by parcel</h1>
+<p class="lede">Tŷ Mawr alias Cedfin — the Cedwyn estate, home of the Williams family, now Leckwith and Llandough — was old manorial farmland beside a Christian site used since the fourth century. Over a hundred years of quarrying, sewers, estate sales, lettings, court orders and registration, the land the family lived on and worked was taken into other hands one parcel at a time. Walk through the rooms in order. Every exhibit carries its catalogue ID; the reader weighs them.</p>
+<section class="plaque" aria-labelledby="cf"><h2 id="cf">At the entrance: what the courts decided</h2><ol id="court"></ol></section>
+<nav class="map" id="map" aria-label="Rooms"></nav>
+<div id="rooms"><p class="small">Opening the rooms…</p></div>
+<section class="plaque exit"><h2>Before you leave</h2><p class="small" id="hyp"></p><p class="small">The charts in Room 10 are for discussion; dates come from the cited records; nothing here is a finding of any court. Continue: <a href="/infographic/title-chain/">the title chain, step by step</a> · <a href="/research/new-in-the-catalogue/">new catalogue entries</a> · <a href="/accounts/#farm-money">the money record</a> · <a href="/thousand-cuts/">1000 Cuts</a> · <a href="/story/">The Story</a>.</p><p class="small" id="src"></p></section>
+</main>
+<script>
+
+function cedwynChain(){
+  function viaDb(){return new Promise(function(ok,bad){if(window.Cedwyn)return ok();var s=document.createElement('script');s.src='/_cedwyn/cat.js';s.onload=ok;s.onerror=bad;document.head.appendChild(s);})
+    .then(function(){return Cedwyn.db();}).then(function(db){return db.query("SELECT doc FROM layers WHERE id='title-chain'");})
+    .then(function(r){if(!r||!r[0]||!r[0].doc)throw new Error('no layer row');var d=JSON.parse(r[0].doc);d._src='database';return d;});}
+  function viaFile(){return fetch('/research/layer.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(d){d._src='layer file';return d;});}
+  var t=new Promise(function(_,bad){setTimeout(function(){bad(new Error('timeout'));},7000);});
+  return Promise.race([viaDb(),t]).catch(viaFile);
+}
+
+(function(){
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+cedwynChain().then(function(D){
+  document.getElementById('court').innerHTML=D.court_first.map(function(c){return '<li>'+esc(c)+'</li>';}).join('');
+  var X=D.exhibits||{};
+  document.getElementById('map').innerHTML=D.rooms.map(function(r){return '<a href="#room-'+r.n+'" data-n="'+r.n+'">'+r.n+' · '+esc(r.period)+'</a>';}).join('');
+  document.getElementById('rooms').innerHTML=D.rooms.map(function(r){
+    var cases=(r.refs||[]).map(function(ref){var x=X[ref.ev]||{};var href=ref.path?'/research'+ref.path:'';
+      return '<div class="case"><div class="id">'+esc(ref.ev)+'</div>'+(x.img?'<a href="'+esc(x.img)+'"><img loading="lazy" src="'+esc(x.img)+'" alt="'+esc(x.title||ref.ev)+'"></a>':'')+'<p class="t">'+(href?'<a href="'+esc(href)+'">':'')+esc(x.title||ref.ev)+(href?'</a>':'')+'</p></div>';}).join('');
+    return '<section class="room" id="room-'+r.n+'" aria-labelledby="rh'+r.n+'"><div class="no">Room '+r.n+'</div><h2 id="rh'+r.n+'">'+esc(r.title)+'</h2><p class="period">'+esc(r.period)+'</p><p class="story">'+esc(r.text)+'</p><div class="cases">'+cases+'</div></section>';}).join('');
+  document.getElementById('hyp').innerHTML='Competing readings, most to least plausible on the present record: '+(D.hypotheses||[]).map(function(h){return '('+h.rank+') '+esc(h.name);}).join('; ')+'.';
+  document.getElementById('src').textContent='Exhibits drawn from the “title-chain” layer of the Cedwyn catalogue '+D._src+' (version '+D.version+', '+D.built+').';
+  var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');var n=e.target.id.split('-')[1];document.querySelectorAll('#map a').forEach(function(a){a.classList.toggle('cur',a.dataset.n===n);if(a.dataset.n===n){var m=document.getElementById('map');m.scrollTo({left:a.offsetLeft-m.clientWidth/2+a.clientWidth/2,behavior:'smooth'});}});}});},{rootMargin:'-30% 0px -55% 0px'}):null;
+  document.querySelectorAll('.room').forEach(function(s){if(io)io.observe(s);else s.classList.add('in');});
+  setTimeout(function(){document.querySelectorAll('.room').forEach(function(s){var r=s.getBoundingClientRect();if(r.top<innerHeight)s.classList.add('in');});},300);
+}).catch(function(e){document.getElementById('rooms').innerHTML='<p>The rooms could not be opened just now ('+esc(e&&e.message)+'). <a href="/research/new-in-the-catalogue/">See the catalogue entries.</a></p>';});
+})();
+</script></body></html>

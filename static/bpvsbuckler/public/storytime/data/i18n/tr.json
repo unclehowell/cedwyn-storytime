@@ -1,0 +1,122 @@
+{
+ "lang": "tr",
+ "name": "Türkçe",
+ "dir": "ltr",
+ "ui": {
+  "play": "Oynat",
+  "pause": "Duraklat",
+  "resume": "Devam et",
+  "next": "İleri",
+  "prev": "Geri",
+  "evidence": "Bu sahnenin kanıtları",
+  "close": "Kapat",
+  "language": "Dil",
+  "scene": "Sahne",
+  "location": "Konum",
+  "of": "/",
+  "mt": "Makine çevirisi; henüz anadili konuşan biri tarafından gözden geçirilmedi.",
+  "our_reading": "Bizim yorumumuz",
+  "transcript": "Döküm",
+  "transcript_pending": "Döküm hazırlanıyor",
+  "description": "Açıklama",
+  "open_page": "Kanıt sayfasını aç",
+  "testimony": "Tanıklık, henüz katalogda değil",
+  "context_image": "Bağlam görseli",
+  "start": "Hikâyeyi başlat",
+  "voice_note": "Anlatım cihazınızın kendi sesini kullanır; bir şey duymuyorsanız altyazıları okuyun.",
+  "speed": "Hız",
+  "subtitles": "Altyazılar"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Toprağın altında",
+   "when": "1824 öncesi",
+   "short": "Herhangi bir malikâne belgesinden çok önce Llandough'da insanlar yaşıyordu: bir Roma villası, kilisenin yanında binden fazla mezarı olan erken Hristiyan mezarlığı ve sonradan 1983'teki bir yangında kaybolan buluntular."
+  },
+  "s02": {
+   "title": "Cedwyn adı",
+   "when": "1392'den 1902'ye",
+   "short": "Cedwyn adı bu toprakların her yerinde geçer: Ely kıyısında Cwm-Cedwyn, Nant-Cedwyn, Cwm Cydfin Ormanı. Bizim yorumumuz: bu ad malikâne belgelerinden daha eskidir."
+  },
+  "s03": {
+   "title": "Haritada Tŷ Mawr",
+   "when": "1824",
+   "short": "1824: bir ölçüm, araziyi tarlalarının tablosuyla birlikte plan 19, Cedfin ya da Tŷ Mawr Farm olarak çizer. Malikâne ölçümlerinde şimdiye kadar bulunan ilk kayıt budur."
+  },
+  "s04": {
+   "title": "Öşür haritası",
+   "when": "1841 civarı",
+   "short": "1841 civarı: öşür listesi John Williams'ı 36 parselde gösterir, bunların 33'ü Bute adına yazılmıştır. Öşür listesi mülkiyeti sınamazdı; bizim yorumumuz: incelenmesi gereken kayıt tam da bu Bute kaydıdır."
+  },
+  "s05": {
+   "title": "Vergiler ve taş ocağı",
+   "when": "1872'den 1877'ye",
+   "short": "1872'den 1877'ye: vergi defterleri John Williams'ın adını geçirir; Bute'un 1877'de bir taş ocağı şirketiyle yaptığı anlaşma evin parselini etkiler. Bizim yorumumuz: kireç ocakları için bölüşümün başlangıcı."
+  },
+  "s06": {
+   "title": "Saygın bir hane",
+   "when": "1881'den 1910'a",
+   "short": "1881'den 1910'a: nüfus sayımında çiftçi John Williams; 1910'da malikâne mahkemesinin büyük jürisinde. Bizim yorumumuz: kilise bölgesinde saygın bir aile."
+  },
+  "s07": {
+   "title": "Ormanlar, hendekler ve malikâne belgeleri",
+   "when": "1902'den 1931'e",
+   "short": "1902'den 1931'e: malikâne açık artırmaları, devir senetleri ve ailenin itiraz ettiği 1916 tarihli bir malikâne belgesi. Bu arada aile, mülkiyeti göstermenin yerel geleneğiyle ağaç diker."
+  },
+  "s08": {
+   "title": "Başlarının üstünden devredildi",
+   "when": "1938'den 1942'ye",
+   "short": "1938'den 1942'ye: Bute'un hakkı Western Ground Rents'e geçer; 1939'da John Williams adına bir belge düzenlenir. Bizim yorumumuz: toprak, aile olmadan kâğıt üzerinde el değiştirdi."
+  },
+  "s09": {
+   "title": "Davalar başlıyor",
+   "when": "1949'dan 1957'ye",
+   "short": "1949'dan 1957'ye: yazılı olmayan yeni bir tahsis, çiftlik evinden kaybolan mülkiyet belgeleri, ardından ilçe mahkemesi. Bizim yorumumuz: oturma hakkı izin olarak yeniden tanımlandı."
+  },
+  "s10": {
+   "title": "Galler'in Crichel Down'ı",
+   "when": "1958",
+   "short": "1958: Tŷ Mawr'dan Bayan Mary Buckler buna Galler'in Crichel Down'ı der: ailesinin 1667'den beri işlediği toprak, haksız yere el konulmuş."
+  },
+  "s11": {
+   "title": "Kararlar, bir okul ve bir köy çayırı",
+   "when": "1959'dan 1970'e",
+   "short": "1959'dan 1970'e: teklifler, 1962'de bir karar, 1965'te okul arsası, 1969'da BP ve 1970'te köy çayırı olarak kaydedilen C parseli. Bizim yorumumuz: parsel parsel alındı."
+  },
+  "s12": {
+   "title": "Ölçüm ve açık gün",
+   "when": "1971'den 1975'e",
+   "short": "1974: Kraliyet Komisyonu evi ölçer; evi kurtarmak için bir açık gün düzenlenir; Mary Williams mülkiyetini savunur. 1975: ev kâğıt üzerinde BP şirketleri arasında el değiştirir."
+  },
+  "s13": {
+   "title": "Tescil",
+   "when": "1980'den 1985'e",
+   "short": "1982'den 1983'e: önce toprak, sonra çiftlik evi, ilk kez WA231076 ve WA240304 tapuları olarak tescil edilir. Bizim yorumumuz: örüntüdeki tescil adımı."
+  },
+  "s14": {
+   "title": "Karar",
+   "when": "1986'dan 1987'ye",
+   "short": "1986'dan 1987'ye: önce Yüksek Mahkeme, sonra İstinaf Mahkemesi, BP lehine. Yerel plan binaları hâlâ korunacak yapılar olarak işaretliyordu."
+  },
+  "s15": {
+   "title": "Ev yıkılıyor",
+   "when": "1988",
+   "short": "1988: tahliye, ardından 7 Aralık'ta sabah 4'ten hemen sonra buldozerler. Kahvaltıya kadar ayakta hiçbir şey kalmadı; tescil hâlâ değerlendiriliyordu."
+  },
+  "s16": {
+   "title": "Sonrası",
+   "when": "1989'dan 1996'ya",
+   "short": "1989'dan 1996'ya: kayıt, binanın sahipleri tarafından yıkıldığını not eder. Ardından evler ve bir çayır gelir; 1994 kazısı erken Hristiyan mezarlığını bulur."
+  },
+  "s17": {
+   "title": "Hukuk kitaplarında",
+   "when": "2002'den 2017'ye",
+   "short": "2002'den itibaren: dava, kazandırıcı zamanaşımı üzerine bir ders kitabı örneğine dönüşür, toprak ise el değiştirmeye devam eder."
+  },
+  "s18": {
+   "title": "Kayıt sahiplerine sormak",
+   "when": "2026",
+   "short": "2026: kayıtları elinde tutanlara doğrudan sorulur. Her yanıt bir katalog kaydı olur; her boşluk eksik bir kayıt."
+  }
+ }
+}

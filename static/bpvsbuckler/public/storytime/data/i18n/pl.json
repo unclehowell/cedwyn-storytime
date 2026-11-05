@@ -1,0 +1,122 @@
+{
+ "lang": "pl",
+ "name": "Polski",
+ "dir": "ltr",
+ "ui": {
+  "play": "Odtwórz",
+  "pause": "Pauza",
+  "resume": "Wznów",
+  "next": "Dalej",
+  "prev": "Wstecz",
+  "evidence": "Dowody do tej sceny",
+  "close": "Zamknij",
+  "language": "Język",
+  "scene": "Scena",
+  "location": "Miejsce",
+  "of": "z",
+  "mt": "Tłumaczenie maszynowe; jeszcze nie przejrzane przez rodzimego użytkownika języka.",
+  "our_reading": "Nasza interpretacja",
+  "transcript": "Transkrypcja",
+  "transcript_pending": "Transkrypcja w przygotowaniu",
+  "description": "Opis",
+  "open_page": "Otwórz stronę dowodu",
+  "testimony": "Świadectwo, jeszcze nie w katalogu",
+  "context_image": "Obraz kontekstowy",
+  "start": "Zacznij opowieść",
+  "voice_note": "Narracja używa głosu twojego urządzenia; jeśli nic nie słychać, czytaj napisy.",
+  "speed": "Prędkość",
+  "subtitles": "Napisy"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Pod ziemią",
+   "when": "przed 1824",
+   "short": "Na długo przed jakimkolwiek dokumentem majątku w Llandough mieszkali ludzie: rzymska willa, wczesnochrześcijański cmentarz z ponad tysiącem pochówków obok kościoła i znaleziska utracone później w pożarze w 1983 roku."
+  },
+  "s02": {
+   "title": "Nazwa Cedwyn",
+   "when": "1392 do 1902",
+   "short": "Nazwa Cedwyn przewija się przez tę ziemię: Cwm-Cedwyn nad rzeką Ely, Nant-Cedwyn, las Cwm Cydfin. Nasza interpretacja: nazwa jest starsza niż dokumenty majątku."
+  },
+  "s03": {
+   "title": "Tŷ Mawr na mapie",
+   "when": "1824",
+   "short": "1824: pomiar przedstawia gospodarstwo jako plan 19, Cedfin albo Tŷ Mawr Farm, z tabelą jego pól. To pierwsza wzmianka odnaleziona dotąd w pomiarach majątku."
+  },
+  "s04": {
+   "title": "Mapa dziesięcinna",
+   "when": "około 1841",
+   "short": "Około 1841: wykaz dziesięcinny przypisuje Johnowi Williamsowi 36 działek, z czego 33 wpisano na Bute. Wykaz dziesięcinny nie badał tytułu własności; nasza interpretacja: właśnie ten wpis Bute trzeba zbadać."
+  },
+  "s05": {
+   "title": "Podatki i kamieniołom",
+   "when": "1872 do 1877",
+   "short": "1872 do 1877: księgi podatkowe wymieniają Johna Williamsa; umowa Bute z firmą kamieniarską z 1877 roku obejmuje działkę z domem. Nasza interpretacja: początek podziału ziemi pod wapienniki."
+  },
+  "s06": {
+   "title": "Szanowany dom",
+   "when": "1881 do 1910",
+   "short": "1881 do 1910: John Williams, rolnik, w spisie ludności; w 1910 roku w wielkiej ławie przysięgłych sądu dworskiego. Nasza interpretacja: rodzina o pozycji w parafii."
+  },
+  "s07": {
+   "title": "Lasy, rowy i dokumenty majątku",
+   "when": "1902 do 1931",
+   "short": "1902 do 1931: licytacje majątku, akty przeniesienia i dokument z 1916 roku, który rodzina kwestionuje. W tym czasie rodzina sadzi drzewa; to rodzimy zwyczaj zaznaczania własności."
+  },
+  "s08": {
+   "title": "Przekazana ponad ich głowami",
+   "when": "1938 do 1942",
+   "short": "1938 do 1942: udział Bute przechodzi na Western Ground Rents; w 1939 roku sporządzono dokument na nazwisko Johna Williamsa. Nasza interpretacja: ziemia zmieniła właściciela na papierze bez udziału rodziny."
+  },
+  "s09": {
+   "title": "Zaczynają się sądy",
+   "when": "1949 do 1957",
+   "short": "1949 do 1957: niepisane ponowne nadanie, dokumenty własności zaginione z domu, a potem sąd hrabstwa. Nasza interpretacja: zamieszkiwanie przedstawiono jako zgodę."
+  },
+  "s10": {
+   "title": "Walijskie Crichel Down",
+   "when": "1958",
+   "short": "1958: pani Mary Buckler z Tŷ Mawr nazywa to walijskim Crichel Down: ziemia uprawiana przez jej rodzinę od 1667 roku, bezprawnie zawłaszczona."
+  },
+  "s11": {
+   "title": "Nakazy, szkoła i błonie",
+   "when": "1959 do 1970",
+   "short": "1959 do 1970: oferty, nakaz z 1962 roku, teren szkoły w 1965, BP w 1969 i działka C wpisana w 1970 jako wiejskie błonie. Nasza interpretacja: odbierana działka po działce."
+  },
+  "s12": {
+   "title": "Pomiar i dzień otwarty",
+   "when": "1971 do 1975",
+   "short": "1974: Komisja Królewska mierzy dom; dzień otwarty, by go ocalić; Mary Williams broni prawa własności. 1975: dom przechodzi na papierze między spółkami BP."
+  },
+  "s13": {
+   "title": "Wpisane do rejestru",
+   "when": "1980 do 1985",
+   "short": "1982 do 1983: najpierw ziemia, potem dom, po raz pierwszy wpisane jako tytuły WA231076 i WA240304. Nasza interpretacja: krok rejestracji we wzorcu."
+  },
+  "s14": {
+   "title": "Wyrok",
+   "when": "1986 do 1987",
+   "short": "1986 do 1987: Sąd Najwyższy, a potem Sąd Apelacyjny, na korzyść BP. Lokalny plan wciąż oznaczał budynki jako do zachowania."
+  },
+  "s15": {
+   "title": "Dom zostaje zburzony",
+   "when": "1988",
+   "short": "1988: eksmisja, a potem 7 grudnia buldożery tuż po 4 rano. Do śniadania nic nie zostało, choć wciąż rozważano wpis do rejestru zabytków."
+  },
+  "s16": {
+   "title": "Potem",
+   "when": "1989 do 1996",
+   "short": "1989 do 1996: budynek zniszczony przez właścicieli, odnotowuje rejestr. Powstają domy i błonie; wykopaliska z 1994 roku odkrywają wczesnochrześcijański cmentarz."
+  },
+  "s17": {
+   "title": "W podręcznikach prawa",
+   "when": "2002 do 2017",
+   "short": "Od 2002 roku: sprawa staje się podręcznikowym przykładem zasiedzenia, a ziemia przechodzi dalej."
+  },
+  "s18": {
+   "title": "Pytanie posiadaczy akt",
+   "when": "2026",
+   "short": "2026: posiadacze akt są pytani bezpośrednio. Każda odpowiedź staje się wpisem w katalogu; każda luka brakującym dokumentem."
+  }
+ }
+}

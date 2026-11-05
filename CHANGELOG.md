@@ -1,0 +1,451 @@
+## [0.8.2] - 2026-10-24
+
+### Fixed
+- Repair mojibake in the release footer so separators and loading text render correctly.
+- Announce dynamic release-status updates to assistive technology.
+- Keep the site release in `.version` separate from `DB_STATUS`'s embedded dataset version/date; no source-data regeneration is claimed.
+
+## 2026-10-19 — New evidence: 1881 census, directories, 1855 tenancy, 1958 water report
+
+- New scene, 1881 census (RG11/5288 p.2): "Llandough Home Farm", John Williams, 53, farmer of 170 [? or 120] acres, linked to wiki EV-0224 with the census photograph. Per Sion Buckler this is Great House Farm; what cuts against it (the name appears nowhere else; the acreage) is shown with it. New case question cq-1881-name.
+- New scene, trade directories 1868–1901: "Williams John, Great house", with the Rees family listed separately at Llandough Farm.
+- New scene, 1855: John Williams "succeeded his father in the tenancy of the farm in 1855" (Cardiff Times, 16 July 1904); the report's "of Llandough Farm" is noted against it.
+- 1891 geese scene: added the South Wales Star, 10 June 1892 ("Mr. John Williams, Great House Farm, Llandough").
+- New scene, 19 November 1958: Western Mail report (snippet only) of Mrs M. D. Buckler's "Welsh case of Crichel Down" and her claim that the water was cut off "for nearly 10 years by order of Western Ground Rents"; Branwen Buckler's voice testimony attributed to her, with what cuts against it. New case question cq-water.
+- VG41 scene: the Commons Registration (Glamorgan) Act 1983 covers common land only, not village greens.
+- Evidence catalogue: the 1878 Thomas Williams / Ynysawdre Coal Co. agreement recorded as excluded (Ynysawdre Farm, Bridgend; not Great House Farm). It was not listed on the site as Great House Farm.
+
+## 2026-10-18 — Three-part Parcel A forensic review
+
+- Added an interactive, explicitly non-cadastral schematic separating the proposed north woodland, central occupied core and south-eastern VG41 land within Parcel A, while retaining Parcel B as a control area.
+- Integrated the 1955 order/execution, indexed 1961 WGR–South Western Brick & Tile–Cardiff City deed, 1962 house-and-garden order, 1970 VG41 record, 1982–83 registration, 1987 appeal and later woodland chain as one falsifiable chronology.
+- Corrected the overstatement that peripheral parcels being uninhabited automatically prevents a possession order from applying; the exact order, plan, parties, independent third-party title and scope of adjudication control.
+- Added a balanced indicator/alternative-explanation matrix and prioritized primary-document list. No conclusion of fraud or collusion is asserted; the 1961 deed remains untranscribed in the indexed wiki record.
+
+## [0.8.1.38] - 2026-07-26
+
+## [0.8.1.37] - 2026-07-26
+
+## [0.8.1.36] - 2026-07-26
+
+## [0.8.1.35] - 2026-07-26
+
+## [0.8.1.34] - 2026-07-26
+
+## [0.8.1.33] - 2026-07-26
+
+## [0.8.1.32] - 2026-07-26
+
+## [0.8.1.31] - 2026-07-26
+
+## [0.8.1.30] - 2026-07-26
+
+## [0.8.1.29] - 2026-07-26
+
+## [0.8.1.28] - 2026-07-25
+
+## [0.8.1.27] - 2026-07-25
+
+## [0.8.1.26] - 2026-07-25
+
+## [0.8.1.25] - 2026-07-25
+
+## [0.8.1.24] - 2026-07-25
+
+## [0.8.1.23] - 2026-07-25
+
+## [0.8.1.22] - 2026-07-25
+
+## [0.8.1.21] - 2026-07-25
+
+## [0.8.1.20] - 2026-07-25
+
+## [0.8.1.19] - 2026-07-25
+
+## [0.8.1.18] - 2026-07-25
+
+## [0.8.1.17] - 2026-07-25
+
+## [0.8.1.16] - 2026-07-24
+
+## [0.8.1.15] - 2026-07-24
+
+## [0.8.1.14] - 2026-07-24
+
+## [0.8.1.13] - 2026-07-24
+
+## [0.8.1.12] - 2026-07-24
+
+## [0.8.1.11] - 2026-07-24
+
+## [0.8.1.10] - 2026-07-24
+
+## [0.8.1.09] - 2026-07-24
+
+## [0.8.1.08] - 2026-07-24
+
+## [0.8.1.07] - 2026-07-24
+
+## [0.8.1.06] - 2026-07-24
+
+## [0.8.1.05] - 2026-07-24
+
+## [0.8.1.04] - 2026-07-23
+
+## [0.8.1.03] - 2026-07-23
+
+## [0.8.1.02] - 2026-07-23
+
+## [0.8.1.01] - 2026-07-23
+
+## [0.8.1.00] - 2026-07-23
+
+## [0.8.0.99] - 2026-07-23
+
+## [0.8.0.98] - 2026-07-23
+
+## [0.8.0.97] - 2026-07-23
+
+## [0.8.0.96] - 2026-07-23
+
+## [0.8.0.95] - 2026-07-23
+
+## [0.8.0.94] - 2026-07-23
+
+## [0.8.0.93] - 2026-07-23
+
+## [0.8.0.92] - 2026-07-22
+
+## [0.8.0.91] - 2026-07-22
+
+## [0.8.0.90] - 2026-07-22
+
+## [0.8.0.89] - 2026-07-22
+
+## [0.8.0.88] - 2026-07-22
+
+## [0.8.0.87] - 2026-07-22
+
+## [0.8.0.86] - 2026-07-22
+
+## [0.8.0.85] - 2026-07-22
+
+## [0.8.0.84] - 2026-07-22
+
+## [0.8.0.83] - 2026-07-22
+
+## [0.8.0.82] - 2026-07-22
+
+## [0.8.0.81] - 2026-07-22
+
+## [0.8.0.80] - 2026-07-21
+
+## [0.8.0.79] - 2026-07-21
+
+## [0.8.0.78] - 2026-07-21
+
+## [0.8.0.77] - 2026-07-21
+
+## [0.8.0.76] - 2026-07-21
+
+## [0.8.0.75] - 2026-07-21
+
+## [0.8.0.74] - 2026-07-21
+
+## [0.8.0.73] - 2026-07-21
+
+## [0.8.0.72] - 2026-07-21
+
+## [0.8.0.71] - 2026-07-21
+
+## [0.8.0.70] - 2026-07-20
+
+## [0.8.0.69] - 2026-07-20
+
+## [0.8.0.68] - 2026-07-20
+
+## [0.8.0.67] - 2026-07-20
+
+## [0.8.0.66] - 2026-07-20
+
+## [0.8.0.65] - 2026-07-20
+
+## [0.8.0.64] - 2026-07-20
+
+## [0.8.0.63] - 2026-07-20
+
+## [0.8.0.62] - 2026-07-20
+
+## [0.8.0.61] - 2026-07-20
+
+## [0.8.0.60] - 2026-07-20
+
+## [0.8.0.59] - 2026-07-20
+
+## [0.8.0.58] - 2026-07-19
+
+## [0.8.0.57] - 2026-07-19
+
+## [0.8.0.56] - 2026-07-19
+
+## [0.8.0.55] - 2026-07-19
+
+## [0.8.0.54] - 2026-07-19
+
+## [0.8.0.53] - 2026-07-19
+
+## [0.8.0.52] - 2026-07-19
+
+## [0.8.0.51] - 2026-07-19
+
+## [0.8.0.50] - 2026-07-19
+
+## [0.8.0.49] - 2026-07-19
+
+## [0.8.0.48] - 2026-07-19
+
+## [0.8.0.47] - 2026-07-19
+
+## [0.8.0.46] - 2026-07-18
+
+## [0.8.0.45] - 2026-07-18
+
+## [0.8.0.44] - 2026-07-18
+
+## [0.8.0.43] - 2026-07-18
+
+## [0.8.0.42] - 2026-07-18
+
+## [0.8.0.41] - 2026-07-18
+
+## [0.8.0.40] - 2026-07-18
+
+## [0.8.0.39] - 2026-07-18
+
+## [0.8.0.38] - 2026-07-18
+
+## [0.8.0.37] - 2026-07-18
+
+## [0.8.0.36] - 2026-07-18
+
+## [0.8.0.35] - 2026-07-18
+
+## [0.8.0.34] - 2026-07-17
+
+## [0.8.0.33] - 2026-07-17
+
+## [0.8.0.32] - 2026-07-17
+
+## [0.8.0.31] - 2026-07-17
+
+## [0.8.0.30] - 2026-07-17
+
+## [0.8.0.29] - 2026-07-17
+
+## [0.8.0.28] - 2026-07-17
+
+## [0.8.0.27] - 2026-07-17
+
+## [0.8.0.26] - 2026-07-17
+
+## [0.8.0.25] - 2026-07-17
+
+## [0.8.0.24] - 2026-07-17
+
+## [0.8.0.23] - 2026-07-17
+
+## [0.8.0.22] - 2026-07-16
+
+## [0.8.0.21] - 2026-07-16
+
+## [0.8.0.20] - 2026-07-16
+
+## [0.8.0.19] - 2026-07-16
+
+## [0.8.0.18] - 2026-07-16
+
+## [0.8.0.17] - 2026-07-16
+
+## [0.8.0.16] - 2026-07-16
+
+## [0.8.0.15] - 2026-07-16
+
+## [0.8.0.14] - 2026-07-16
+
+## [0.8.0.13] - 2026-07-16
+
+## [0.8.0.12] - 2026-07-16
+
+## [0.8.0.11] - 2026-07-16
+
+## [0.8.0.10] - 2026-07-15
+
+## [0.8.0.09] - 2026-07-15
+
+## [0.8.0.08] - 2026-07-15
+
+## [0.8.0.07] - 2026-07-15
+
+## [0.8.0.11] - 2026-07-15
+
+## [0.8.0.10] - 2026-07-15
+
+## [0.8.0.09] - 2026-07-15
+
+## [0.8.0.08] - 2026-07-15
+
+## [0.8.0.07] - 2026-07-15
+
+## [0.8.0.06] - 2026-07-15
+
+## [0.8.0.28] - 2026-07-15
+
+## [0.8.0.27] - 2026-07-15
+
+## [0.8.0.26] - 2026-07-14
+
+## [0.8.0.25] - 2026-07-14
+
+## [0.8.0.24] - 2026-07-14
+
+## [0.8.0.23] - 2026-07-14
+
+## [0.8.0.22] - 2026-07-14
+
+## [0.8.0.21] - 2026-07-14
+
+## [0.8.0.20] - 2026-07-14
+
+## [0.8.0.19] - 2026-07-14
+
+## [0.8.0.18] - 2026-07-14
+
+## [0.8.0.17] - 2026-07-14
+
+## [0.8.0.17] - 2026-07-14
+
+- Replaced Script page with interactive Mermaid.js timeline of BP vs Buckler dispute
+- Timeline covers 1667-2026 with 30 official events and 21 family challenges
+- Click any node for details; click [i] for family challenge perspective
+- Styled to match bpvsbuckler dark theme (Courier Prime, amber accents)
+
+## [0.8.0.16] - 2026-07-14
+
+## [0.8.0.15] - 2026-07-14
+
+## [0.8.0.14] - 2026-07-13
+
+## [0.8.0.13] - 2026-07-13
+
+## [0.8.0.12] - 2026-07-13
+
+## [0.8.0.11] - 2026-07-13
+
+## [0.8.0.10] - 2026-07-13
+
+## [0.8.0.09] - 2026-07-13
+
+## [0.8.0.08] - 2026-07-13
+
+## [0.8.0.07] - 2026-07-13
+
+## [0.8.0.06] - 2026-07-13
+
+## [0.8.0.05] - 2026-07-13
+
+## [0.8.0.04] - 2026-07-13
+
+## [0.8.0.03] - 2026-07-12
+
+## [0.8.0.02] - 2026-07-12
+
+## [0.8.0.01] - 2026-07-08
+
+# Changelog
+
+## [bpvsbuckler-v0.0.0.10-aws] - 2026-05-28
+
+### Fixed
+- fix(bpvsbuckler): Remove excessive blank lines
+
+### Changed
+- ux(bpvsbuckler): Add minimum tap target sizes for mobile UX
+
+## [bpvsbuckler-v0.0.0.09-aws] - 2026-05-28
+
+### Fixed
+- fix(bpvsbuckler): Add proper title to 404 page for SEO
+- fix(bpvsbuckler): Create Terms of Service page for legal compliance
+- fix(bpvsbuckler): Remove excessive blank lines
+
+### Changed
+- ux(bpvsbuckler): Add cookie consent banner for GDPR compliance
+
+## [bpvsbuckler-v0.0.0.10] - 2026-05-26
+
+### Added
+- Add Beurcracy pinball page with Land Registry to ICR escalation flow
+- Inject Beurcracy link into SPA nav alongside Home, Reparations, Script
+
+### Changed
+- Strip nav/header/score from beurcracy pinball pages for clean canvas-only display
+
+### Fixed
+- Remove extra injected nav bar causing duplicate navigation
+
+## [bpvsbuckler-v0.0.0.09] - 2026-05-26
+
+### Fixed
+- fix(bpvsbuckler): switch to file-based build, no npm/bun needed
+- fix(bpvsbuckler): restore old SPA download in build command
+- fix(bpvsbuckler): use POSIX-only build command
+- fix(bpvsbuckler): fix build script to use rsync
+- fix(bpvsbuckler): switch source to old pages.dev deployment
+
+### Changed
+- ux(bpvsbuckler): beurcracy pinball page with audio and flippers
+
+## [bpvsbuckler-v0.0.0.08] - 2026-05-26
+
+### Fixed
+- fix(bpvsbuckler): Create Contact page with form and contact details
+- fix(bpvsbuckler): Launch blog with welcome post and index page
+- fix(bpvsbuckler): Create Privacy Policy page for legal compliance
+
+### Changed
+- ux(bpvsbuckler): Add print-friendly styles for better UX
+
+## [bpvsbuckler-v0.0.0.07] - 2026-05-25
+
+### Fixed
+- fix(bpvsbuckler): Remove excessive blank lines
+- fix(bpvsbuckler): Remove excessive blank lines
+- fix(bpvsbuckler): Remove excessive blank lines
+
+### Changed
+- ux(bpvsbuckler): Add hover styles for interactive elements
+
+## [0.0.1.0] - 2026-05-24
+
+### Fixed
+- Identified issue: JSON parse error: Expecting "," delimiter (requires manual fix)
+
+## [bpvsbuckler-v0.0.0.16] - 2026-05-31
+
+### Added
+- feat(bpvsbuckler): Add 13 new timeline entries covering 1916–1993 gaps
+  - 1916 – John Williams granted agricultural tenancy by Marquess of Bute
+  - 1949 – Intended tenancy transfer from John Williams to Frederick Buckler
+  - 1959 – Mary (Nancy) Williams, formerly Buckler asserted hereditary ownership claim
+  - 1969 – Parcel B, and an interest in the 1962 order on Parcel A, passed to BP Pension Trust Ltd (our case: not the whole farm)
+  - 1970 – Llandough Primary School opened on former farm land
+  - 1974 – Judge Watkin Powell granted leave to enforce 1962 possession order
+  - 1974 – Mary (Nancy) Williams, formerly Buckler opposed eviction through press coverage
+  - 1974 – BP Pension Trust and BP Properties issued life rent-free licence letters
+  - 1974 – Possession warrant withdrawn; Mary remained in occupation
+  - 1979 – Roman villa and bathhouse uncovered during housing development
+  - 1987 – Corinthian Close and Tuscan Close constructed over Roman villa site
+  - 1988 – Final removal of remaining Buckler occupants from Great House Farm
+  - 1993 – The Glamorgan Village Book recorded the Roman villa discovery
+
+## [Unreleased]

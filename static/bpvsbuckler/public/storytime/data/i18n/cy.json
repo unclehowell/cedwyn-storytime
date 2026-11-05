@@ -1,0 +1,144 @@
+{
+ "lang": "cy",
+ "name": "Cymraeg",
+ "dir": "ltr",
+ "ui": {
+  "play": "Chwarae",
+  "pause": "Oedi",
+  "resume": "Ailddechrau",
+  "next": "Nesaf",
+  "prev": "Blaenorol",
+  "evidence": "Tystiolaeth ar gyfer yr olygfa hon",
+  "close": "Cau",
+  "language": "Iaith",
+  "scene": "Golygfa",
+  "location": "Lleoliad",
+  "of": "o",
+  "mt": "Cyfieithiad peiriant; heb ei wirio eto gan siaradwr brodorol.",
+  "our_reading": "Ein dehongliad",
+  "transcript": "Trawsgrifiad",
+  "transcript_pending": "Trawsgrifiad i ddod",
+  "description": "Disgrifiad",
+  "open_page": "Agor y dudalen dystiolaeth",
+  "testimony": "Tystiolaeth lafar, nad yw yn y catalog eto",
+  "context_image": "Delwedd gyd-destun",
+  "start": "Dechrau'r stori",
+  "voice_note": "Mae'r naratif yn defnyddio llais eich dyfais eich hun; os nad ydych chi'n clywed dim, darllenwch yr isdeitlau.",
+  "speed": "Cyflymder",
+  "subtitles": "Isdeitlau"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Dan y ddaear",
+   "when": "cyn 1824",
+   "short": "Ymhell cyn unrhyw bapur stad, roedd pobl yn byw yn Llandough: fila Rufeinig, mynwent Gristnogol gynnar o dros fil o gladdedigaethau wrth ymyl yr eglwys, a darganfyddiadau a gollwyd yn ddiweddarach mewn tân yn 1983."
+  },
+  "s02": {
+   "title": "Yr enw Cedwyn",
+   "when": "1392 i 1902",
+   "short": "Mae'r enw Cedwyn yn rhedeg drwy'r tir: Cwm-Cedwyn ar afon Elái, Nant-Cedwyn, Coed Cwm Cydfin. Ein dehongliad: mae'r enw yn hŷn na phapurau'r stad."
+  },
+  "s03": {
+   "title": "Tŷ Mawr ar y map",
+   "when": "1824",
+   "short": "1824: mae arolwg yn dangos y daliad fel cynllun 19, Cedfin neu Fferm Tŷ Mawr, gyda thabl o'i gaeau. Dyma'r cyfeiriad cyntaf a gafwyd hyd yma yn arolygon y stad."
+  },
+  "s04": {
+   "title": "Map y degwm",
+   "when": "tua 1841",
+   "short": "Tua 1841: mae rhestr y degwm yn rhoi John Williams ar 36 o barseli, gyda 33 wedi'u cofnodi dan Bute. Nid oedd rhestr degwm yn profi teitl. Ein dehongliad: y cofnod Bute hwn yw'r un i'w archwilio'n fanwl."
+  },
+  "s05": {
+   "title": "Trethi a'r chwarel",
+   "when": "1872 i 1877",
+   "short": "1872 i 1877: mae llyfrau trethi yn enwi John Williams; mae cytundeb Bute yn 1877 â chwmni chwarel yn cyffwrdd â pharsel y tŷ. Ein dehongliad: dechrau rhannu'r tir ar gyfer y gwaith calch."
+  },
+  "s06": {
+   "title": "Teulu o statws",
+   "when": "1881 i 1910",
+   "short": "1881 i 1910: John Williams, ffermwr, yn y cyfrifiad; ar reithgor mawr y llys lît yn 1910. Ein dehongliad: teulu o statws yn y plwyf."
+  },
+  "s07": {
+   "title": "Coedydd, draeniau a phapurau'r stad",
+   "when": "1902 i 1931",
+   "short": "1902 i 1931: arwerthiannau stad, trosglwyddebau a phapur stad o 1916 y mae'r teulu'n ei herio. Yn y cyfamser mae'r teulu'n plannu coed, yr arfer brodorol o ddatgan perchnogaeth."
+  },
+  "s08": {
+   "title": "Wedi'i drosglwyddo dros eu pennau",
+   "when": "1938 i 1942",
+   "short": "1938 i 1942: mae buddiant Bute yn mynd i Western Ground Rents; mae papur o 1939 yn cael ei lunio yn enw John Williams. Ein dehongliad: newidiodd y tir ddwylo ar bapur heb y teulu."
+  },
+  "s09": {
+   "title": "Y llysoedd yn dechrau",
+   "when": "1949 i 1957",
+   "short": "1949 i 1957: ail-grant heb ei ysgrifennu, papurau teitl ar goll o'r ffermdy, ac yna'r llys sirol. Ein dehongliad: troi meddiannaeth yn ganiatâd."
+  },
+  "s10": {
+   "title": "Crichel Down Cymreig",
+   "when": "1958",
+   "short": "1958: mae Mrs Mary Buckler o Tŷ Mawr yn ei alw'n Crichel Down Cymreig: tir a ffermiwyd gan ei theulu ers 1667, wedi'i feddiannu ar gam."
+  },
+  "s11": {
+   "title": "Gorchmynion, ysgol a maes pentref",
+   "when": "1959 i 1970",
+   "short": "1959 i 1970: cynigion, gorchymyn yn 1962, safle'r ysgol yn 1965, BP yn 1969, a pharsel C wedi'i gofrestru fel maes pentref yn 1970. Ein dehongliad: wedi'i gymryd un parsel ar y tro."
+  },
+  "s12": {
+   "title": "Yr arolwg a'r diwrnod agored",
+   "when": "1971 i 1975",
+   "short": "1974: mae'r Comisiwn Brenhinol yn mesur y tŷ; diwrnod agored i'w achub; mae Mary Williams yn pledio perchnogaeth. 1975: mae'r tŷ yn symud rhwng cwmnïau BP ar bapur."
+  },
+  "s13": {
+   "title": "Wedi'i gofrestru",
+   "when": "1980 i 1985",
+   "short": "1982 i 1983: y tir, ac yna'r ffermdy, wedi'u cofrestru am y tro cyntaf fel teitlau WA231076 a WA240304. Ein dehongliad: cam y cofrestru yn y patrwm."
+  },
+  "s14": {
+   "title": "Dyfarniad",
+   "when": "1986 i 1987",
+   "short": "1986 i 1987: yr Uchel Lys, ac yna'r Llys Apêl, o blaid BP. Roedd y cynllun lleol yn dal i nodi bod yr adeiladau i'w cadw."
+  },
+  "s15": {
+   "title": "Y tŷ yn cael ei dynnu i lawr",
+   "when": "1988",
+   "short": "1988: troi allan, ac yna ar 7 Rhagfyr teirw dur ychydig ar ôl 4 y bore. Erbyn amser brecwast nid oedd dim yn sefyll, tra oedd rhestru'n dal i gael ei ystyried."
+  },
+  "s16": {
+   "title": "Wedyn",
+   "when": "1989 i 1996",
+   "short": "1989 i 1996: adeilad wedi'i ddinistrio gan y perchnogion, mae'r cofnod yn nodi. Daw tai a maes pentref wedyn; mae cloddiad 1994 yn dod o hyd i'r fynwent Gristnogol gynnar."
+  },
+  "s17": {
+   "title": "Yn y llyfrau cyfraith",
+   "when": "2002 i 2017",
+   "short": "O 2002 ymlaen: mae'r achos yn dod yn wers gwerslyfr ar feddiant gwrthgefn tra bo'r tir yn mynd ymlaen i eraill."
+  },
+  "s18": {
+   "title": "Gofyn i ddeiliaid y cofnodion",
+   "when": "2026",
+   "short": "2026: gofynnir yn uniongyrchol i ddeiliaid y cofnodion. Mae pob ateb yn dod yn gofnod yn y catalog; pob bwlch yn gofnod coll."
+  }
+ },
+ "patagonia": {
+  "p1": {
+   "title": "Yr ysgubor",
+   "text": "Lleoliad un: yr ysgubor. Yn Tŷ Mawr safai'r ysgubor ar draws y buarth o'r tŷ, a hi oedd tir bywyd y plwyf. Mae ffotograff yng Nghasgliad y Werin Cymru yn dangos ffair capel yn Great House Farm, gyda'r ysgubor y tu ôl i'r dorf, llithren i'r plant a phabell luniaeth. Mae tystiolaeth lafar yn cofnodi i Peerless Jim Driscoll, pencampwr bocsio Caerdydd, ymladd un o'i ornestau cynnar yn yr ysgubor hon, ac i dŷ crwn Cymreig gael ei ddarganfod oddi tani. Nid yw'r naill na'r llall yn y catalog tystiolaeth eto. Yr hyn sydd yn y catalog: tynnodd Cadw ffotograff o'r ysgubor hon ar 29 Gorffennaf 1988, fisoedd cyn iddi gael ei thynnu i lawr, ac roedd y tir o'i chwmpas yn cynnwys fila Rufeinig a mynwent Gristnogol gynnar."
+  },
+  "p2": {
+   "title": "Y prif dŷ",
+   "text": "Lleoliad dau: y prif dŷ, Tŷ Mawr, cyn dŷ maenorol Llandough. Yn 1824 mae arolwg yn ei ddangos fel Cedfin neu Fferm Tŷ Mawr, cynllun 19. Yn 1881 mae'r cyfrifiad yn dod o hyd i John Williams a'i aelwyd yma, ac yn 1910 mae'n eistedd ar reithgor mawr y llys lît. Yn 1958 mae Mary Doreen Buckler, gan siarad o'r tŷ hwn, yn galw colli tir y teulu ers 1667 yn Crichel Down Cymreig. Ym mis Ebrill 1974 mae'r Comisiwn Brenhinol yn mesur pob ystafell, y lluniad y mae'r replica hwn wedi'i adeiladu ohono, ac mae'r tŷ yn cynnal diwrnod agored i'w achub. Yn 1982 a 1983 mae'r tir a'r tŷ yn cael eu cofrestru i eraill am y tro cyntaf. Ym mis Rhagfyr 1988 mae teirw dur yn cyrraedd ychydig ar ôl pedwar y bore, tra bod rhestru'n dal i gael ei ystyried. Ein dehongliad: y tŷ yw canol yr holl gronoleg, ac mae'n sefyll eto yma."
+  },
+  "p3": {
+   "title": "Yr eglwys",
+   "text": "Lleoliad tri: yr eglwys. Safai eglwys St Dochdwy ychydig gamau o'r tŷ. Cofnododd cloddiad 1994 i'r gogledd o'r eglwys fwy na mil o gladdedigaethau Cristnogol cynnar, a rhestrodd Cadw yr eglwys yn 1989. Ni fydd eglwys yr ail ganrif ar bymtheg yn cael ei hailadeiladu ym Mhatagonia, felly mae'n ymddangos yma fel hologram. Nid oes delwedd o'r eglwys ganoloesol honno wedi'i chanfod eto: mae'r hologram hwn wedi'i olrhain o'r ffotograff hynaf a ganfuwyd, o'r eglwys a safai yma cyn 1866."
+  },
+  "p4": {
+   "title": "Y buarth a'r stablau",
+   "text": "Lleoliad pedwar: y buarth a'r stablau, calon waith y fferm. Mae llyfrau plwyf y 1870au yn enwi John Williams yma, ac yn 1891 mae papur newydd yn adrodd bod tair gŵydd wedi'u cymryd o'i fuarth. Plannodd y teulu goed ar y tir, yr arfer brodorol o ddatgan perchnogaeth, ac mae ffotograff teuluol yn ei gofnodi. O 1916 ymlaen lluniodd ochr y stad bapurau yn disgrifio meddiannaeth y teulu ar ei thelerau ei hun; mae'r teulu'n herio pob un ohonynt. Tua 1950 aeth papurau teitl y teulu ar goll o'r gist flancedi yn y tŷ, ac mae cofrestrau'r llys sirol yn agor yn 1953. Ein dehongliad: trodd pob papur feddiannaeth hir yn ganiatâd."
+  },
+  "p5": {
+   "title": "Y giât a'r maes",
+   "text": "Lleoliad pump: y giât fynediad, yn edrych allan at yr hyn a fu'n barsel C. Yn 1965 aeth tir o'r stad ar gyfer ysgol Llandough, ac ym mis Mehefin 1970 cofrestrwyd parsel C fel maes pentref VG41. Ar ôl 1988 daeth y safle'n gynllun tai, gyda chynllun plannu ar gyfer y maes pentref. Yn 2026 gofynnwyd yn uniongyrchol i ddeiliaid y cofnodion: y Gofrestrfa Tir, Cadw, yr archifau. Mae pob ateb yn gofnod yn y catalog; mae pob bwlch yn gofnod coll. Ein dehongliad: y giât yw lle'r aeth y stad allan, parsel wrth barsel, a lle mae'r cofnod bellach yn dychwelyd."
+  }
+ }
+}

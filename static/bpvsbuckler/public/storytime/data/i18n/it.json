@@ -1,0 +1,122 @@
+{
+ "lang": "it",
+ "name": "Italiano",
+ "dir": "ltr",
+ "ui": {
+  "play": "Riproduci",
+  "pause": "Pausa",
+  "resume": "Riprendi",
+  "next": "Avanti",
+  "prev": "Indietro",
+  "evidence": "Prove di questa scena",
+  "close": "Chiudi",
+  "language": "Lingua",
+  "scene": "Scena",
+  "location": "Luogo",
+  "of": "di",
+  "mt": "Traduzione automatica; non ancora verificata da un madrelingua.",
+  "our_reading": "La nostra lettura",
+  "transcript": "Trascrizione",
+  "transcript_pending": "Trascrizione in arrivo",
+  "description": "Descrizione",
+  "open_page": "Apri la pagina della prova",
+  "testimony": "Testimonianza, non ancora nel catalogo",
+  "context_image": "Immagine di contesto",
+  "start": "Inizia la storia",
+  "voice_note": "La narrazione usa la voce del tuo dispositivo; se non senti nulla, leggi i sottotitoli.",
+  "speed": "Velocità",
+  "subtitles": "Sottotitoli"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Sotto la terra",
+   "when": "prima del 1824",
+   "short": "Molto prima di qualsiasi carta della tenuta, Llandough era abitata: una villa romana, un cimitero paleocristiano con oltre mille sepolture accanto alla chiesa e reperti poi andati perduti in un incendio nel 1983."
+  },
+  "s02": {
+   "title": "Il nome Cedwyn",
+   "when": "dal 1392 al 1902",
+   "short": "Il nome Cedwyn attraversa la terra: Cwm-Cedwyn sull'Ely, Nant-Cedwyn, il bosco di Cwm Cydfin. La nostra lettura: il nome è più antico delle carte della tenuta."
+  },
+  "s03": {
+   "title": "Tŷ Mawr sulla mappa",
+   "when": "1824",
+   "short": "1824: un rilievo disegna il podere come pianta 19, Cedfin o fattoria Tŷ Mawr, con una tabella dei suoi campi. È la prima menzione trovata finora nei rilievi della tenuta."
+  },
+  "s04": {
+   "title": "La mappa delle decime",
+   "when": "intorno al 1841",
+   "short": "Intorno al 1841: l'elenco delle decime attribuisce a John Williams 36 particelle, 33 registrate a nome di Bute. Un elenco delle decime non verificava il titolo di proprietà. La nostra lettura: è questa voce di Bute quella da esaminare."
+  },
+  "s05": {
+   "title": "Le imposte e la cava",
+   "when": "dal 1872 al 1877",
+   "short": "Dal 1872 al 1877: i registri delle imposte locali nominano John Williams; un accordo di Bute del 1877 con una ditta di cave tocca la particella della casa. La nostra lettura: l'inizio dello smembramento per le fornaci da calce."
+  },
+  "s06": {
+   "title": "Una famiglia di rango",
+   "when": "dal 1881 al 1910",
+   "short": "Dal 1881 al 1910: John Williams, agricoltore, nel censimento; nel 1910 nel gran giurì della corte signorile. La nostra lettura: una famiglia di rango nella parrocchia."
+  },
+  "s07": {
+   "title": "Boschi, fossi e carte della tenuta",
+   "when": "dal 1902 al 1931",
+   "short": "Dal 1902 al 1931: aste della tenuta, atti di trasferimento e una carta della tenuta del 1916 che la famiglia contesta. Intanto la famiglia pianta alberi, l'usanza locale per far valere la proprietà."
+  },
+  "s08": {
+   "title": "Trasferita a loro insaputa",
+   "when": "dal 1938 al 1942",
+   "short": "Dal 1938 al 1942: l'interesse di Bute passa a Western Ground Rents; nel 1939 viene redatta una carta a nome di John Williams. La nostra lettura: la terra ha cambiato mano sulla carta, senza la famiglia."
+  },
+  "s09": {
+   "title": "Cominciano i tribunali",
+   "when": "dal 1949 al 1957",
+   "short": "Dal 1949 al 1957: una nuova concessione non scritta, documenti di proprietà scomparsi dalla casa colonica, poi il tribunale di contea. La nostra lettura: l'occupazione trasformata in permesso."
+  },
+  "s10": {
+   "title": "Un Crichel Down gallese",
+   "when": "1958",
+   "short": "1958: la signora Mary Buckler di Tŷ Mawr lo chiama un Crichel Down gallese: terra coltivata dalla sua famiglia dal 1667, presa ingiustamente."
+  },
+  "s11": {
+   "title": "Ordinanze, una scuola e un prato comunale",
+   "when": "dal 1959 al 1970",
+   "short": "Dal 1959 al 1970: offerte, un'ordinanza nel 1962, il terreno della scuola nel 1965, BP nel 1969 e la particella C registrata come prato comunale del villaggio nel 1970. La nostra lettura: presa una particella alla volta."
+  },
+  "s12": {
+   "title": "Il rilievo e la giornata aperta",
+   "when": "dal 1971 al 1975",
+   "short": "1974: la Commissione reale misura la casa; una giornata aperta per salvarla; Mary Williams difende la sua proprietà. 1975: la casa passa sulla carta tra società di BP."
+  },
+  "s13": {
+   "title": "Registrate",
+   "when": "dal 1980 al 1985",
+   "short": "Dal 1982 al 1983: la terra, poi la casa colonica, registrate per la prima volta come titoli WA231076 e WA240304. La nostra lettura: il passo della registrazione nello schema."
+  },
+  "s14": {
+   "title": "La sentenza",
+   "when": "dal 1986 al 1987",
+   "short": "Dal 1986 al 1987: l'Alta Corte, poi la Corte d'appello, danno ragione a BP. Il piano locale indicava ancora gli edifici da conservare."
+  },
+  "s15": {
+   "title": "La casa viene abbattuta",
+   "when": "1988",
+   "short": "1988: lo sfratto, poi il 7 dicembre i bulldozer poco dopo le 4 del mattino. All'ora di colazione non restava in piedi nulla, mentre il vincolo era ancora in esame."
+  },
+  "s16": {
+   "title": "Dopo",
+   "when": "dal 1989 al 1996",
+   "short": "Dal 1989 al 1996: edificio distrutto dai proprietari, annota il registro. Seguono case e un prato comunale; lo scavo del 1994 ritrova il cimitero paleocristiano."
+  },
+  "s17": {
+   "title": "Nei libri di diritto",
+   "when": "dal 2002 al 2017",
+   "short": "Dal 2002 in poi: il caso diventa una lezione da manuale sull'usucapione, mentre la terra passa di mano."
+  },
+  "s18": {
+   "title": "Chiedere ai detentori degli archivi",
+   "when": "2026",
+   "short": "2026: ai detentori degli archivi si chiede direttamente. Ogni risposta diventa una scheda del catalogo; ogni lacuna, un documento mancante."
+  }
+ }
+}

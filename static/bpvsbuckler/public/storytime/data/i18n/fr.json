@@ -1,0 +1,122 @@
+{
+ "lang": "fr",
+ "name": "Français",
+ "dir": "ltr",
+ "ui": {
+  "play": "Lecture",
+  "pause": "Pause",
+  "resume": "Reprendre",
+  "next": "Suivant",
+  "prev": "Précédent",
+  "evidence": "Preuves de cette scène",
+  "close": "Fermer",
+  "language": "Langue",
+  "scene": "Scène",
+  "location": "Lieu",
+  "of": "sur",
+  "mt": "Traduction automatique ; pas encore relue par un locuteur natif.",
+  "our_reading": "Notre lecture",
+  "transcript": "Transcription",
+  "transcript_pending": "Transcription à venir",
+  "description": "Description",
+  "open_page": "Ouvrir la page de la pièce",
+  "testimony": "Témoignage, pas encore au catalogue",
+  "context_image": "Image de contexte",
+  "start": "Commencer l'histoire",
+  "voice_note": "La narration utilise la voix de votre appareil ; si vous n'entendez rien, lisez les sous-titres.",
+  "speed": "Vitesse",
+  "subtitles": "Sous-titres"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Sous la terre",
+   "when": "avant 1824",
+   "short": "Bien avant le moindre papier du domaine, Llandough était habité : une villa romaine, un cimetière paléochrétien de plus de mille sépultures près de l'église, et des découvertes perdues plus tard dans un incendie en 1983."
+  },
+  "s02": {
+   "title": "Le nom Cedwyn",
+   "when": "de 1392 à 1902",
+   "short": "Le nom Cedwyn parcourt le territoire : Cwm-Cedwyn sur l'Ely, Nant-Cedwyn, le bois de Cwm Cydfin. Notre lecture : le nom est plus ancien que les papiers du domaine."
+  },
+  "s03": {
+   "title": "Tŷ Mawr sur la carte",
+   "when": "1824",
+   "short": "1824 : un relevé dessine l'exploitation comme le plan 19, Cedfin ou ferme de Tŷ Mawr, avec un tableau de ses champs. C'est la première mention trouvée à ce jour dans les relevés du domaine."
+  },
+  "s04": {
+   "title": "La carte de la dîme",
+   "when": "vers 1841",
+   "short": "Vers 1841 : la liste de la dîme attribue 36 parcelles à John Williams, dont 33 inscrites au nom de Bute. Une liste de dîme ne vérifiait pas le titre de propriété. Notre lecture : c'est cette inscription de Bute qu'il faut examiner."
+  },
+  "s05": {
+   "title": "Les taxes et la carrière",
+   "when": "de 1872 à 1877",
+   "short": "De 1872 à 1877 : les registres des taxes locales nomment John Williams ; un accord de Bute de 1877 avec une entreprise de carrière touche la parcelle de la maison. Notre lecture : le début du dépeçage pour les fours à chaux."
+  },
+  "s06": {
+   "title": "Une famille de rang",
+   "when": "de 1881 à 1910",
+   "short": "De 1881 à 1910 : John Williams, fermier, dans le recensement ; membre du grand jury de la cour seigneuriale en 1910. Notre lecture : une famille de rang dans la paroisse."
+  },
+  "s07": {
+   "title": "Bois, drains et papiers du domaine",
+   "when": "de 1902 à 1931",
+   "short": "De 1902 à 1931 : ventes aux enchères du domaine, actes de cession et un papier du domaine de 1916 que la famille conteste. Pendant ce temps, la famille plante des arbres, la coutume locale pour marquer la propriété."
+  },
+  "s08": {
+   "title": "Cédée par-dessus leur tête",
+   "when": "de 1938 à 1942",
+   "short": "De 1938 à 1942 : l'intérêt de Bute passe à Western Ground Rents ; un papier de 1939 est établi au nom de John Williams. Notre lecture : la terre a changé de mains sur le papier, sans la famille."
+  },
+  "s09": {
+   "title": "Les tribunaux entrent en scène",
+   "when": "de 1949 à 1957",
+   "short": "De 1949 à 1957 : une nouvelle concession non écrite, des titres disparus de la ferme, puis le tribunal de comté. Notre lecture : l'occupation requalifiée en permission."
+  },
+  "s10": {
+   "title": "Un Crichel Down gallois",
+   "when": "1958",
+   "short": "1958 : Mme Mary Buckler, de Tŷ Mawr, qualifie l'affaire de Crichel Down gallois : une terre cultivée par sa famille depuis 1667, appropriée à tort."
+  },
+  "s11": {
+   "title": "Des arrêtés, une école et un pré communal",
+   "when": "de 1959 à 1970",
+   "short": "De 1959 à 1970 : des offres, un arrêté en 1962, le terrain de l'école en 1965, BP en 1969, et la parcelle C enregistrée comme pré communal du village en 1970. Notre lecture : prise une parcelle à la fois."
+  },
+  "s12": {
+   "title": "Le relevé et la journée portes ouvertes",
+   "when": "de 1971 à 1975",
+   "short": "1974 : la Commission royale mesure la maison ; une journée portes ouvertes pour la sauver ; Mary Williams plaide sa propriété. 1975 : la maison passe d'une société BP à une autre sur le papier."
+  },
+  "s13": {
+   "title": "Enregistrés",
+   "when": "de 1980 à 1985",
+   "short": "De 1982 à 1983 : la terre, puis la ferme, enregistrées pour la première fois sous les titres WA231076 et WA240304. Notre lecture : l'étape de l'enregistrement dans le schéma."
+  },
+  "s14": {
+   "title": "Le jugement",
+   "when": "de 1986 à 1987",
+   "short": "De 1986 à 1987 : la Haute Cour, puis la Cour d'appel, donnent raison à BP. Le plan local prévoyait toujours de conserver les bâtiments."
+  },
+  "s15": {
+   "title": "La maison tombe",
+   "when": "1988",
+   "short": "1988 : l'expulsion, puis le 7 décembre les bulldozers, juste après 4 heures du matin. À l'heure du petit-déjeuner, plus rien ne tenait debout, alors que le classement était encore à l'étude."
+  },
+  "s16": {
+   "title": "Après",
+   "when": "de 1989 à 1996",
+   "short": "De 1989 à 1996 : bâtiment détruit par ses propriétaires, note le registre. Viennent des maisons et un pré communal ; les fouilles de 1994 mettent au jour le cimetière paléochrétien."
+  },
+  "s17": {
+   "title": "Dans les livres de droit",
+   "when": "de 2002 à 2017",
+   "short": "À partir de 2002 : l'affaire devient un cas d'école sur la prescription acquisitive, tandis que la terre change de mains."
+  },
+  "s18": {
+   "title": "Interroger les détenteurs des archives",
+   "when": "2026",
+   "short": "2026 : les détenteurs des archives sont interrogés directement. Chaque réponse devient une fiche du catalogue ; chaque lacune, une archive manquante."
+  }
+ }
+}

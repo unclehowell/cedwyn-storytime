@@ -1,0 +1,122 @@
+{
+ "lang": "nl",
+ "name": "Nederlands",
+ "dir": "ltr",
+ "ui": {
+  "play": "Afspelen",
+  "pause": "Pauze",
+  "resume": "Verder",
+  "next": "Volgende",
+  "prev": "Terug",
+  "evidence": "Bewijs bij deze scène",
+  "close": "Sluiten",
+  "language": "Taal",
+  "scene": "Scène",
+  "location": "Locatie",
+  "of": "van",
+  "mt": "Machinaal vertaald; nog niet nagelezen door een moedertaalspreker.",
+  "our_reading": "Onze interpretatie",
+  "transcript": "Transcriptie",
+  "transcript_pending": "Transcriptie volgt",
+  "description": "Beschrijving",
+  "open_page": "Open de bewijspagina",
+  "testimony": "Getuigenis, nog niet in de catalogus",
+  "context_image": "Contextbeeld",
+  "start": "Begin het verhaal",
+  "voice_note": "De vertelling gebruikt de eigen stem van je apparaat; hoor je niets, lees dan de ondertitels.",
+  "speed": "Snelheid",
+  "subtitles": "Ondertitels"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Onder de grond",
+   "when": "vóór 1824",
+   "short": "Lang voor er enig landgoedpapier was, woonden er al mensen in Llandough: een Romeinse villa, een vroegchristelijke begraafplaats met meer dan duizend graven naast de kerk, en vondsten die later verloren gingen bij een brand in 1983."
+  },
+  "s02": {
+   "title": "De naam Cedwyn",
+   "when": "1392 tot 1902",
+   "short": "De naam Cedwyn loopt door het land: Cwm-Cedwyn aan de Ely, Nant-Cedwyn, het bos Cwm Cydfin. Onze interpretatie: de naam is ouder dan de landgoedpapieren."
+  },
+  "s03": {
+   "title": "Tŷ Mawr op de kaart",
+   "when": "1824",
+   "short": "1824: een opmeting tekent het bezit als plan 19, Cedfin of Tŷ Mawr Farm, met een tabel van de velden. De eerste vermelding die tot nu toe in de landgoedopmetingen is gevonden."
+  },
+  "s04": {
+   "title": "De tiendkaart",
+   "when": "rond 1841",
+   "short": "Rond 1841: de tiendlijst zet John Williams op 36 percelen, waarvan 33 op naam van Bute. Een tiendlijst toetste geen eigendomsrecht; onze interpretatie: juist deze vermelding van Bute moet worden onderzocht."
+  },
+  "s05": {
+   "title": "Belastingen en de steengroeve",
+   "when": "1872 tot 1877",
+   "short": "1872 tot 1877: de belastingregisters noemen John Williams; een overeenkomst van Bute met een steengroevebedrijf uit 1877 raakt het perceel van het huis. Onze interpretatie: het begin van de opdeling voor de kalkovens."
+  },
+  "s06": {
+   "title": "Een huishouden van aanzien",
+   "when": "1881 tot 1910",
+   "short": "1881 tot 1910: John Williams, boer, in de volkstelling; in 1910 lid van de grote jury van het heerlijkheidshof. Onze interpretatie: een familie van aanzien in de parochie."
+  },
+  "s07": {
+   "title": "Bossen, sloten en landgoedpapieren",
+   "when": "1902 tot 1931",
+   "short": "1902 tot 1931: veilingen van het landgoed, overdrachtsakten en een landgoedpapier uit 1916 dat de familie betwist. Intussen planten de familieleden bomen, het oude inheemse gebruik om eigendom te bevestigen."
+  },
+  "s08": {
+   "title": "Over hun hoofden heen overgedragen",
+   "when": "1938 tot 1942",
+   "short": "1938 tot 1942: het belang van Bute gaat over naar Western Ground Rents; in 1939 wordt een papier opgesteld op naam van John Williams. Onze interpretatie: het land wisselde op papier van eigenaar zonder de familie."
+  },
+  "s09": {
+   "title": "De rechtszaken beginnen",
+   "when": "1949 tot 1957",
+   "short": "1949 tot 1957: een ongeschreven nieuwe toekenning, eigendomspapieren die uit de boerderij verdwenen, en dan de rechtbank van het graafschap. Onze interpretatie: bewoning werd omgedoopt tot toestemming."
+  },
+  "s10": {
+   "title": "Een Welse Crichel Down",
+   "when": "1958",
+   "short": "1958: mevrouw Mary Buckler van Tŷ Mawr noemt het een Welse Crichel Down: land dat haar familie sinds 1667 bewerkt, onrechtmatig toegeëigend."
+  },
+  "s11": {
+   "title": "Bevelen, een school en een dorpsweide",
+   "when": "1959 tot 1970",
+   "short": "1959 tot 1970: aanbiedingen, een bevel in 1962, het schoolterrein in 1965, BP in 1969, en perceel C in 1970 ingeschreven als dorpsweide. Onze interpretatie: perceel voor perceel afgenomen."
+  },
+  "s12": {
+   "title": "De opmeting en de open dag",
+   "when": "1971 tot 1975",
+   "short": "1974: de Koninklijke Commissie meet het huis op; een open dag om het te redden; Mary Williams komt op voor haar eigendom. 1975: het huis gaat op papier over tussen BP-bedrijven."
+  },
+  "s13": {
+   "title": "Ingeschreven",
+   "when": "1980 tot 1985",
+   "short": "1982 tot 1983: eerst het land, dan de boerderij, voor het eerst ingeschreven als titels WA231076 en WA240304. Onze interpretatie: de inschrijvingsstap in het patroon."
+  },
+  "s14": {
+   "title": "Het vonnis",
+   "when": "1986 tot 1987",
+   "short": "1986 tot 1987: het Hooggerechtshof en daarna het Hof van Beroep, in het voordeel van BP. Het lokale bestemmingsplan duidde de gebouwen nog steeds aan als te behouden."
+  },
+  "s15": {
+   "title": "Het huis gaat neer",
+   "when": "1988",
+   "short": "1988: uitzetting, en dan op 7 december bulldozers net na 4 uur 's nachts. Bij het ontbijt stond er niets meer, terwijl een monumentenstatus nog werd overwogen."
+  },
+  "s16": {
+   "title": "Daarna",
+   "when": "1989 tot 1996",
+   "short": "1989 tot 1996: gebouw verwoest door de eigenaars, vermeldt het register. Er volgen huizen en een dorpsweide; de opgraving van 1994 vindt de vroegchristelijke begraafplaats."
+  },
+  "s17": {
+   "title": "In de rechtsboeken",
+   "when": "2002 tot 2017",
+   "short": "Vanaf 2002: de zaak wordt een lesvoorbeeld in handboeken over verkrijgende verjaring, terwijl het land verder wordt doorgegeven."
+  },
+  "s18": {
+   "title": "De archiefhouders bevragen",
+   "when": "2026",
+   "short": "2026: de houders van de archieven worden rechtstreeks bevraagd. Elk antwoord wordt een catalogusitem; elk gat een ontbrekend document."
+  }
+ }
+}

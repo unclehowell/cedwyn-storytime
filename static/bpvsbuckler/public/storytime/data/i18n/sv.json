@@ -1,0 +1,122 @@
+{
+ "lang": "sv",
+ "name": "Svenska",
+ "dir": "ltr",
+ "ui": {
+  "play": "Spela",
+  "pause": "Paus",
+  "resume": "Fortsätt",
+  "next": "Nästa",
+  "prev": "Tillbaka",
+  "evidence": "Bevis för den här scenen",
+  "close": "Stäng",
+  "language": "Språk",
+  "scene": "Scen",
+  "location": "Plats",
+  "of": "av",
+  "mt": "Maskinöversatt; ännu inte granskad av en modersmålstalare.",
+  "our_reading": "Vår tolkning",
+  "transcript": "Transkription",
+  "transcript_pending": "Transkription kommer",
+  "description": "Beskrivning",
+  "open_page": "Öppna bevissidan",
+  "testimony": "Vittnesmål, ännu inte i katalogen",
+  "context_image": "Sammanhangsbild",
+  "start": "Starta berättelsen",
+  "voice_note": "Berättarrösten är din enhets egen röst; hör du ingenting, läs undertexterna.",
+  "speed": "Hastighet",
+  "subtitles": "Undertexter"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Under marken",
+   "when": "före 1824",
+   "short": "Långt före något godspapper bodde människor i Llandough: en romersk villa, en tidigkristen begravningsplats med över tusen gravar bredvid kyrkan, och fynd som senare gick förlorade i en brand 1983."
+  },
+  "s02": {
+   "title": "Namnet Cedwyn",
+   "when": "1392 till 1902",
+   "short": "Namnet Cedwyn går genom hela landet: Cwm-Cedwyn vid Ely, Nant-Cedwyn, skogen Cwm Cydfin. Vår tolkning: namnet är äldre än godspapperen."
+  },
+  "s03": {
+   "title": "Tŷ Mawr på kartan",
+   "when": "1824",
+   "short": "1824: en lantmätning ritar egendomen som plan 19, Cedfin eller Tŷ Mawr Farm, med en tabell över dess fält. Det första omnämnandet som hittills hittats i godsets lantmätningar."
+  },
+  "s04": {
+   "title": "Tiondekartan",
+   "when": "omkring 1841",
+   "short": "Omkring 1841: tiondelistan för upp John Williams på 36 skiften, varav 33 är införda på Bute. En tiondelista prövade inte äganderätten; vår tolkning: det är just den här Bute-noteringen som ska granskas."
+  },
+  "s05": {
+   "title": "Skatter och stenbrottet",
+   "when": "1872 till 1877",
+   "short": "1872 till 1877: skatteböckerna nämner John Williams; ett avtal från 1877 mellan Bute och ett stenbrottsföretag berör husets skifte. Vår tolkning: början på uppstyckningen för kalkbruket."
+  },
+  "s06": {
+   "title": "Ett aktat hushåll",
+   "when": "1881 till 1910",
+   "short": "1881 till 1910: John Williams, lantbrukare, i folkräkningen; 1910 med i storjuryn vid godsets domstol. Vår tolkning: en aktad familj i socknen."
+  },
+  "s07": {
+   "title": "Skogar, diken och godspapper",
+   "when": "1902 till 1931",
+   "short": "1902 till 1931: godsauktioner, överlåtelser och ett godspapper från 1916 som familjen bestrider. Under tiden planterar familjen träd, den inhemska seden för att markera äganderätt."
+  },
+  "s08": {
+   "title": "Överlåtet över deras huvuden",
+   "when": "1938 till 1942",
+   "short": "1938 till 1942: Butes intresse går över till Western Ground Rents; 1939 upprättas ett papper i John Williams namn. Vår tolkning: marken bytte ägare på papperet utan familjen."
+  },
+  "s09": {
+   "title": "Rättegångarna börjar",
+   "when": "1949 till 1957",
+   "short": "1949 till 1957: ett oskrivet nytt beviljande, ägandepapper som försvunnit från gården, och sedan grevskapsdomstolen. Vår tolkning: att bo där omtolkades som tillstånd."
+  },
+  "s10": {
+   "title": "Ett walesiskt Crichel Down",
+   "when": "1958",
+   "short": "1958: fru Mary Buckler på Tŷ Mawr kallar det ett walesiskt Crichel Down: mark som hennes familj brukat sedan 1667, orättmätigt tillägnad."
+  },
+  "s11": {
+   "title": "Beslut, en skola och en byäng",
+   "when": "1959 till 1970",
+   "short": "1959 till 1970: erbjudanden, ett beslut 1962, skoltomten 1965, BP 1969, och skifte C registrerat som byäng 1970. Vår tolkning: taget ett skifte i taget."
+  },
+  "s12": {
+   "title": "Uppmätningen och den öppna dagen",
+   "when": "1971 till 1975",
+   "short": "1974: den kungliga kommissionen mäter upp huset; en öppen dag för att rädda det; Mary Williams försvarar sin äganderätt. 1975: huset går på papperet mellan BP-bolag."
+  },
+  "s13": {
+   "title": "Registrerat",
+   "when": "1980 till 1985",
+   "short": "1982 till 1983: först marken, sedan gården, registreras för första gången som titlarna WA231076 och WA240304. Vår tolkning: registreringssteget i mönstret."
+  },
+  "s14": {
+   "title": "Domen",
+   "when": "1986 till 1987",
+   "short": "1986 till 1987: först High Court, sedan appellationsdomstolen, till BP:s fördel. Den lokala planen markerade fortfarande byggnaderna som bevarade."
+  },
+  "s15": {
+   "title": "Huset rivs",
+   "when": "1988",
+   "short": "1988: vräkning, och sedan den 7 december bulldozrar strax efter klockan 4 på morgonen. Till frukost stod ingenting kvar, medan byggnadsminnesförklaring fortfarande övervägdes."
+  },
+  "s16": {
+   "title": "Efteråt",
+   "when": "1989 till 1996",
+   "short": "1989 till 1996: byggnaden förstörd av ägarna, noterar registret. Hus och en äng följer; utgrävningen 1994 hittar den tidigkristna begravningsplatsen."
+  },
+  "s17": {
+   "title": "I lagböckerna",
+   "when": "2002 till 2017",
+   "short": "Från 2002: fallet blir ett läroboksexempel på hävd medan marken går vidare."
+  },
+  "s18": {
+   "title": "Att fråga arkivhållarna",
+   "when": "2026",
+   "short": "2026: de som håller arkiven tillfrågas direkt. Varje svar blir en katalogpost; varje lucka ett saknat dokument."
+  }
+ }
+}

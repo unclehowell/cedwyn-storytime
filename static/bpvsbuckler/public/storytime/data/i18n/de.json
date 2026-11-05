@@ -1,0 +1,122 @@
+{
+ "lang": "de",
+ "name": "Deutsch",
+ "dir": "ltr",
+ "ui": {
+  "play": "Abspielen",
+  "pause": "Pause",
+  "resume": "Fortsetzen",
+  "next": "Weiter",
+  "prev": "Zurück",
+  "evidence": "Belege zu dieser Szene",
+  "close": "Schließen",
+  "language": "Sprache",
+  "scene": "Szene",
+  "location": "Ort",
+  "of": "von",
+  "mt": "Maschinell übersetzt; noch nicht von Muttersprachlern geprüft.",
+  "our_reading": "Unsere Deutung",
+  "transcript": "Transkript",
+  "transcript_pending": "Transkript folgt",
+  "description": "Beschreibung",
+  "open_page": "Belegseite öffnen",
+  "testimony": "Zeugnis, noch nicht im Katalog",
+  "context_image": "Kontextbild",
+  "start": "Geschichte starten",
+  "voice_note": "Die Erzählung nutzt die Stimme Ihres Geräts; wenn Sie nichts hören, lesen Sie die Untertitel.",
+  "speed": "Tempo",
+  "subtitles": "Untertitel"
+ },
+ "scenes": {
+  "s01": {
+   "title": "Unter der Erde",
+   "when": "vor 1824",
+   "short": "Lange vor jedem Gutspapier war Llandough besiedelt: eine römische Villa, ein frühchristlicher Friedhof mit über tausend Bestattungen neben der Kirche und Funde, die später bei einem Brand 1983 verloren gingen."
+  },
+  "s02": {
+   "title": "Der Name Cedwyn",
+   "when": "1392 bis 1902",
+   "short": "Der Name Cedwyn zieht sich durch das Land: Cwm-Cedwyn am Ely, Nant-Cedwyn, der Wald Cwm Cydfin. Unsere Deutung: Der Name ist älter als die Gutspapiere."
+  },
+  "s03": {
+   "title": "Tŷ Mawr auf der Karte",
+   "when": "1824",
+   "short": "1824: Eine Vermessung zeichnet den Hof als Plan 19, Cedfin oder Hof Tŷ Mawr, mit einer Tabelle seiner Felder. Die erste bisher gefundene Erwähnung in den Gutsvermessungen."
+  },
+  "s04": {
+   "title": "Die Zehntkarte",
+   "when": "um 1841",
+   "short": "Um 1841: Die Zehntliste führt John Williams auf 36 Parzellen, 33 davon unter Bute eingetragen. Eine Zehntliste prüfte keine Eigentumsrechte. Unsere Deutung: Dieser Bute-Eintrag ist der, den es zu prüfen gilt."
+  },
+  "s05": {
+   "title": "Abgaben und der Steinbruch",
+   "when": "1872 bis 1877",
+   "short": "1872 bis 1877: Abgabenbücher nennen John Williams; eine Bute-Vereinbarung von 1877 mit einer Steinbruchfirma berührt die Hausparzelle. Unsere Deutung: der Beginn der Aufteilung für die Kalkwerke."
+  },
+  "s06": {
+   "title": "Ein Haushalt von Rang",
+   "when": "1881 bis 1910",
+   "short": "1881 bis 1910: John Williams, Landwirt, im Zensus; 1910 in der Großen Jury des Herrengerichts. Unsere Deutung: eine Familie von Rang in der Gemeinde."
+  },
+  "s07": {
+   "title": "Wälder, Gräben und Gutspapiere",
+   "when": "1902 bis 1931",
+   "short": "1902 bis 1931: Gutsversteigerungen, Übertragungsurkunden und ein Gutspapier von 1916, das die Familie anficht. Unterdessen pflanzt die Familie Bäume, der einheimische Brauch, um Eigentum zu bekunden."
+  },
+  "s08": {
+   "title": "Über ihre Köpfe hinweg übertragen",
+   "when": "1938 bis 1942",
+   "short": "1938 bis 1942: Das Bute-Interesse geht an Western Ground Rents über; 1939 wird ein Papier auf den Namen John Williams aufgesetzt. Unsere Deutung: Das Land wechselte auf dem Papier den Besitzer, ohne die Familie."
+  },
+  "s09": {
+   "title": "Die Gerichte beginnen",
+   "when": "1949 bis 1957",
+   "short": "1949 bis 1957: eine ungeschriebene Neuvergabe, Eigentumspapiere, die aus dem Bauernhaus verschwinden, dann das Grafschaftsgericht. Unsere Deutung: Besitz wird in Erlaubnis umgedeutet."
+  },
+  "s10": {
+   "title": "Ein walisisches Crichel Down",
+   "when": "1958",
+   "short": "1958: Mrs Mary Buckler von Tŷ Mawr nennt es ein walisisches Crichel Down: Land, das ihre Familie seit 1667 bewirtschaftet, zu Unrecht angeeignet."
+  },
+  "s11": {
+   "title": "Anordnungen, eine Schule und ein Dorfanger",
+   "when": "1959 bis 1970",
+   "short": "1959 bis 1970: Angebote, eine Anordnung 1962, das Schulgelände 1965, BP 1969 und 1970 Parzelle C als Dorfanger eingetragen. Unsere Deutung: Parzelle für Parzelle genommen."
+  },
+  "s12": {
+   "title": "Die Vermessung und der Tag der offenen Tür",
+   "when": "1971 bis 1975",
+   "short": "1974: Die Königliche Kommission vermisst das Haus; ein Tag der offenen Tür, um es zu retten; Mary Williams macht ihr Eigentum geltend. 1975: Das Haus wechselt auf dem Papier zwischen BP-Firmen."
+  },
+  "s13": {
+   "title": "Eingetragen",
+   "when": "1980 bis 1985",
+   "short": "1982 bis 1983: das Land, dann das Bauernhaus, erstmals eingetragen als Grundbuchtitel WA231076 und WA240304. Unsere Deutung: der Schritt der Eintragung im Muster."
+  },
+  "s14": {
+   "title": "Das Urteil",
+   "when": "1986 bis 1987",
+   "short": "1986 bis 1987: das Hohe Gericht, dann das Berufungsgericht, zugunsten von BP. Der örtliche Plan sah die Gebäude weiterhin zum Erhalt vor."
+  },
+  "s15": {
+   "title": "Das Haus fällt",
+   "when": "1988",
+   "short": "1988: Räumung, dann am 7. Dezember Bulldozer kurz nach 4 Uhr morgens. Zum Frühstück stand nichts mehr, während der Denkmalschutz noch geprüft wurde."
+  },
+  "s16": {
+   "title": "Danach",
+   "when": "1989 bis 1996",
+   "short": "1989 bis 1996: Gebäude von den Eigentümern zerstört, vermerkt die Akte. Es folgen Häuser und ein Dorfanger; die Grabung von 1994 findet den frühchristlichen Friedhof."
+  },
+  "s17": {
+   "title": "In den Lehrbüchern",
+   "when": "2002 bis 2017",
+   "short": "Ab 2002: Der Fall wird zur Lehrbuchlektion über Ersitzung, während das Land weitergegeben wird."
+  },
+  "s18": {
+   "title": "Die Inhaber der Unterlagen fragen",
+   "when": "2026",
+   "short": "2026: Die Inhaber der Unterlagen werden direkt gefragt. Jede Antwort wird ein Katalogeintrag; jede Lücke ein fehlender Beleg."
+  }
+ }
+}
