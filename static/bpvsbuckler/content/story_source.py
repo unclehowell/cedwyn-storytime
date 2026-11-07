@@ -892,9 +892,9 @@ sc('VII', 'ghf-19900313-1', '1990-03-13', 'February – March 1990', "Outline pe
    'Planning file',
    "On 13 March 1990 outline permission is granted with 18 conditions. The officer's report notes the farm buildings \"were unfortunately demolished a little while ago\". GGAT's further comments of 8 February 1990 are missing from the file.",
    [REDEV, LEGAL], aliases=['ghf-19900208-1'])
-sc('VII', 'ghf-19900529-1', '1990-05-29', '1990', "Death of William Buckler", 'Llandough', 'A',
+sc('VII', 'ghf-19900529-1', '1990-04-29', '29 April 1990', "Death of William Buckler", 'Llandough', 'A',
    'Newspaper',
-   "William Buckler dies in 1990, aged 41. The South Wales Echo of 2 June 1990 reports that \"Billy died suddenly\" and that he \"made a detour around Llandough so never had to pass the site of Great House Farm\".",
+   "William Buckler dies on 29 April 1990, aged 41 (probate calendar, EV-0274). The South Wales Echo of 2 June 1990 reports that \"Billy died suddenly\" and that he \"made a detour around Llandough so never had to pass the site of Great House Farm\".",
    [w('/williams-buckler-family/', 'The Williams / Buckler Family — William'), {'type': 'Newspaper', 'title': 'EV-0290 — South Wales Echo, 2 June 1990, p.2: "Billy died suddenly this week" (snippet; wiki evidence page)', 'url': 'https://greathousefarmwiki.wordpress.com/evidence/ev-0290-snippet-only-south-wales-echo-2-jun-1990-p-2-billy-died-suddenly-this-week-he-made/'}, {'type': 'Probate record', 'title': 'EV-0274 — Probate calendar 1991: William Beverley Buckler (wiki evidence page)', 'url': 'https://greathousefarmwiki.wordpress.com/evidence/ev-0274-probate-calendar-1991-william-beverley-buckler/'}],
    aliases=['ghf-19920515-1'],
    ledger={'A': "Freehold claim: Mary's heirs · never adjudicated, never extinguished"})
