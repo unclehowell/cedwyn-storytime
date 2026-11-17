@@ -10,9 +10,10 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-09T14:12:24Z",
- "count": 585,
+ "synced_utc": "2026-11-17T23:59:04Z",
+ "count": 584,
  "not_in_central": [
+  "EV-0329",
   "EV-0900"
  ],
  "items": {
@@ -2966,15 +2967,6 @@
    "date_display": "2026-06-07 to 2026-06-15",
    "date_sort": "2026-06-07",
    "status": "not held",
-   "page": null
-  },
-  "EV-0329": {
-   "id": "EV-0329",
-   "kind": "evidence",
-   "title": "Glamorgan Archives: Enquiry re: Great House Farm / Ty Mawr, Llandough – Plot references 36.792 & 70/1.334 (Williams / family, 1876 a (27 Jun 2026)",
-   "date_display": "2026-06-27",
-   "date_sort": "2026-06-27",
-   "status": "no reply",
    "page": null
   },
   "EV-0330": {
