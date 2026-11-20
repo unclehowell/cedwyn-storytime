@@ -10,10 +10,9 @@
   "status",
   "page"
  ],
- "synced_utc": "2026-11-20T14:17:16Z",
- "count": 584,
+ "synced_utc": "2026-11-20T23:17:50Z",
+ "count": 585,
  "not_in_central": [
-  "EV-0196",
   "EV-0900"
  ],
  "items": {
@@ -1770,6 +1769,15 @@
    "date_display": "undated (Version 1.0.0)",
    "date_sort": "0000-00-00",
    "status": "PENDING",
+   "page": null
+  },
+  "EV-0196": {
+   "id": "EV-0196",
+   "kind": "evidence",
+   "title": "External Finishes Schedule for 20 Dwellings, Great House Farm Site, Llandough",
+   "date_display": "Undated (no date visible on first two pages)",
+   "date_sort": "0000-00-00",
+   "status": "HELD",
    "page": null
   },
   "EV-0197": {
